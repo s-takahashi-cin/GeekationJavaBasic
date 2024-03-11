@@ -7,8 +7,8 @@ public class Variables {
 		int num1 = 2;
 		double num2 = 2.50;
 		
-		System.out.println("私の好きな整数は"+num1+"です。");
-		System.out.println("私の好きな少数は"+num2+"です。");
+		System.out.println("私の好きな整数は" + num1 + "です。");
+		System.out.println("私の好きな少数は" + num2 + "です。");
 	}
 
 }
