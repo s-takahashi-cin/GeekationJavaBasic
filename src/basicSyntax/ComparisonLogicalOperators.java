@@ -21,7 +21,7 @@ public class ComparisonLogicalOperators {
 		int x =5;
 		int y =10;
 		
-		boolean andResultA = (x>=0) && (y%2==0);
+		boolean andResultA = (x >= 0) && (y % 2 == 0);
 		System.out.println(andResultA);
 		
 		boolean hasPermission =!false;
