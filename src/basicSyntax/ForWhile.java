@@ -24,10 +24,10 @@ public class For_While {
 			if (language == "Java") {
 				System.out.println("現在学習中の言語はJavaです。");
 				continue;
-			}else if(language == "HTML") {
+			} else if (language == "HTML") {
 				System.out.println("HTMLはプログラミング言語ではありません。");
 				break;
-			}else {
+			} else {
 				System.out.println(language);
 			}
 		}
