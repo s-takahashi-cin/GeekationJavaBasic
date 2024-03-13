@@ -7,15 +7,25 @@ public class IfSwitch {
 		int num = 17;
 		if (num % 2 == 0) {
 			System.out.println("2の倍数です");
+<<<<<<< HEAD
 		}else if(num % 3 == 0){
 			System.out.println("3の倍数です");
 		}else {
+=======
+		} else if (num % 3 == 0){
+			System.out.println("3の倍数です");
+		} else {
+>>>>>>> main
 			System.out.println("どちらでもありません");
 		}
 		
 		String pref = "北海道";
 		
+<<<<<<< HEAD
 		switch(pref) {
+=======
+		switch (pref) {
+>>>>>>> main
 		case "北海道":
 			System.out.println("北海道");
 			break;
