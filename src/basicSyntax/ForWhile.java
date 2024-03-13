@@ -1,11 +1,11 @@
 package basicSyntax;
 
-public class For_While {
+public class ForWhile {
 
 	public static void main(String[] args) {
 		// 問題１
 		for (int i = 1; i <= 100; i++) {
-				if(i % 3 == 0 && i % 5 == 0) {
+				if　(i % 3 == 0 && i % 5 == 0) {
 					System.out.println("FizzBuzz");
 				} else if (i % 3 == 0) {
 					System.out.println("Fizz");
